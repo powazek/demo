@@ -19,7 +19,7 @@ const firebaseConfig = {
     projectId: "fir-c14a3",
     storageBucket: "fir-c14a3.appspot.com",
     messagingSenderId: "1079295813768"
-  };
+  };  
  
 @NgModule({
   declarations: [
